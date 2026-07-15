@@ -79,4 +79,5 @@ Proyek ini dikembangkan menggunakan alur kerja GitHub:
 - Peta lokasi laporan (Google Maps API)
 
 ---
-*Dibuat untuk memenuhi Tugas Mata Kuliah RPL — Studi Kasus Pengelolaan Sampah Lingkungan RT/RW.*
+*Dibuat untuk memenuhi Tugas Mata Kuliah RPL — Studi Kasus Pengelolaan Sampah 
+Delete README.md
